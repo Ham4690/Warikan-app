@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Warikan-app/precache-manifest.0b2ab07e82c736605901427cad9efe28.js"
+  "/Warikan-app/precache-manifest.a06cba0f50a77a57104f48f6bcc743c2.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea3d521618bab221613d170f0b1a0717",
+    "revision": "e70e9c1a47d1c3f1ba6d960e4d5ebdca",
     "url": "/Warikan-app/index.html"
   },
   {
-    "revision": "eaeec5668ad3d6c65c0c",
+    "revision": "69f9facc53a4ba264ba5",
     "url": "/Warikan-app/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Warikan-app/static/js/2.720d9d91.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eaeec5668ad3d6c65c0c",
-    "url": "/Warikan-app/static/js/main.6a086221.chunk.js"
+    "revision": "69f9facc53a4ba264ba5",
+    "url": "/Warikan-app/static/js/main.76f07dd7.chunk.js"
   },
   {
     "revision": "ad1cae0861a98eaeb9ad",
