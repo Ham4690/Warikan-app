@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Warikan-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Warikan-app/static/js/main.6a086221.chunk.js",
+    "main.js.map": "/Warikan-app/static/js/main.6a086221.chunk.js.map",
+    "runtime-main.js": "/Warikan-app/static/js/runtime-main.0d740eef.js",
+    "runtime-main.js.map": "/Warikan-app/static/js/runtime-main.0d740eef.js.map",
+    "static/js/2.720d9d91.chunk.js": "/Warikan-app/static/js/2.720d9d91.chunk.js",
+    "static/js/2.720d9d91.chunk.js.map": "/Warikan-app/static/js/2.720d9d91.chunk.js.map",
+    "index.html": "/Warikan-app/index.html",
+    "precache-manifest.0b2ab07e82c736605901427cad9efe28.js": "/Warikan-app/precache-manifest.0b2ab07e82c736605901427cad9efe28.js",
+    "service-worker.js": "/Warikan-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Warikan-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.720d9d91.chunk.js.LICENSE.txt": "/Warikan-app/static/js/2.720d9d91.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Warikan-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d740eef.js",
+    "static/js/2.720d9d91.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.6a086221.chunk.js"
+  ]
+}
